@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @digital-spaces!
+- 👀 I’m interested in web and game development.
+- 🌱 I’m currently learning Unity, C# or anything else that catches my eye.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 How to reach me: contact@digitalspaces.dev
